@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['laplacian_5ftype',['laplacian_type',['http://www.dealii.org/developer/doxygen/deal.II/structFEValuesViews_1_1Scalar_1_1OutputType.html#a55b106cf748f4ba0f7d76bbe5ab32321',1,'FEValuesViews::Scalar::OutputType::laplacian_type()'],['http://www.dealii.org/developer/doxygen/deal.II/structFEValuesViews_1_1Vector_1_1OutputType.html#a160ab8d14234753f03eecdc679ed1c42',1,'FEValuesViews::Vector::OutputType::laplacian_type()']]],
+  ['linerange',['LineRange',['http://www.dealii.org/developer/doxygen/deal.II/classAffineConstraints.html#af4faf58dd9b066d6441241eabb705a83',1,'AffineConstraints::LineRange()'],['http://www.dealii.org/developer/doxygen/deal.II/classAffineConstraints.html#af4faf58dd9b066d6441241eabb705a83',1,'AffineConstraints&lt; double &gt;::LineRange()'],['http://www.dealii.org/developer/doxygen/deal.II/classAffineConstraints.html#af4faf58dd9b066d6441241eabb705a83',1,'AffineConstraints&lt; typename MatrixType::value_type &gt;::LineRange()'],['http://www.dealii.org/developer/doxygen/deal.II/classAffineConstraints.html#af4faf58dd9b066d6441241eabb705a83',1,'AffineConstraints&lt; typename VectorType::value_type &gt;::LineRange()']]],
+  ['localdata',['LocalData',['http://www.dealii.org/developer/doxygen/deal.II/classTriaAccessorBase.html#a90bf7670cf3c4571fe55e051d2503190',1,'TriaAccessorBase']]]
+];
